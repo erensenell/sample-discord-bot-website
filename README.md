@@ -1,4 +1,4 @@
-# 
+# Sample Discord Bot Website
 <br>
 <hr>
 <h3>
