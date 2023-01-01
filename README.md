@@ -1,8 +1,9 @@
-# discord-bot-sitesi
-
-Noncentilyon için can sıkıntısından yaptığım öyle bir site 10 ya da 20 dkda falan yaptım kullanın :D
-
-![Test Image 1](https://cdn.discordapp.com/attachments/712249377661648966/725719866103037952/unknown.png)
-
-
-# Eren tarafından yapılmıştır
+# Sample Discord Bot Website
+<br>
+<hr>
+<h3>
+Discord Developers: https://discord.dev<br>
+Discord Permission: https://bit.ly/3L4RZpi<br>
+Download Visual Studio Code: https://code.visualstudio.com/download<br>
+Download NodeJS V16: https://nodejs.org/<br>
+MongoDB: https://mongodb.com<br>
